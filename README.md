@@ -1,6 +1,8 @@
 # CalculatorBot
 A Telegram Calculator to calculate your maths sums! Made by &lt;/TeamOctave/>
-
+```
+Thanks Every Star/Folk
+```
 ## Deploy on Heroku
 
 <p align="left">
