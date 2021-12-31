@@ -12,14 +12,14 @@ Bot = Client(
 
 
 START_TEXT = """
-Hello {}, I am a simple, smart and Fastest calculator bot, Made by [TeamOctave](https://t.me/OctaveUpdates)!
+Hello {}, I am a simple, smart and Fastest calculator bot, Made by [TeamMG](https://t.me/mgbotslists)!
 I can calculate sums for you! Hit /calculator to get the menu!
-[Support Group](https://t.me/OctaveSupport) | [Support Channel](https://t.me/OctaveUpdates)
-[Deploy Me](https://github.com/TeamOctave/CalculatorBot)
+[Support Group](https://t.me/MG_Support_Group) | [Support Channel](https://t.me/mgbotslists)
+[My Creator](https://t.me/MayilM07)
 """
 START_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton(' Join Updates Channel ', url='https://telegram.me/OctaveUpdates')
+        InlineKeyboardButton(' Join Updates Channel ', url='https://telegram.me/mgbotslists')
         ]]
     )
 CALCULATE_TEXT = "Calculator Menu 🗃"
